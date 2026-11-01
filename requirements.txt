@@ -1,0 +1,10 @@
+# Antminer Power Saver & Diagnostic Toolkit
+# ==========================================
+# All core tools (find_miner.py, listen_ip_report.py, diagnose_miner.py,
+# download_toolbox.py, prepare_sd_recovery.py) are engineered with ZERO external
+# dependencies and run directly on standard Python 3.8+!
+#
+# Optional packages for extended features, higher HTTP performance, and terminal styling:
+requests>=2.28.0
+urllib3>=1.26.0
+rich>=13.0.0

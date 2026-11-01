@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large binaries, toolkits, and archives (>50MB)
+# Note: Use `python download_toolbox.py` and `python prepare_sd_recovery.py` to fetch these on-demand.
+braiins_toolbox/
+downloads/
+*.exe
+*.zip
+*.tar.gz
+*.img
+*.iso
+*.bin
+
+# Log files
+*.log
+miner_diag_*.log
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
